@@ -1,0 +1,25 @@
+class Matrix:
+    def number(num):
+        match num:
+            case '0':
+                return '160,366'
+            case '.':
+                return '352,366'
+            case '1':
+                return '160,240'
+            case '2':
+                return '256,240'
+            case '3':
+                return '352,240'
+            case '4':
+                return '160,144'
+            case '5':
+                return '256,144'
+            case '6':
+                return '352,144'
+            case '7':
+                return '160,48'
+            case '8':
+                return '256,48'
+            case '9':
+                return '352,48'
